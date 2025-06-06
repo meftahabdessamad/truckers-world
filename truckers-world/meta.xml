@@ -1,0 +1,13 @@
+<resource>
+    <name>Truckers World</name>
+    <description>A truck simulation and logistics roleplay resource for Multi Theft Auto: San Andreas.</description>
+    <version>1.0</version>
+    <author>Your Name</author>
+    <file src="src/main.lua" />
+    <file src="src/jobs/delivery.lua" />
+    <file src="src/vehicles/trucks.lua" />
+    <file src="src/fuel/management.lua" />
+    <file src="src/repairs/repairs.lua" />
+    <file src="src/companies/company.lua" />
+    <file src="src/utils/helpers.lua" />
+</resource>
